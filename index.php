@@ -37,6 +37,7 @@ and open the template in the editor.
        echo "hiiii";
        echo "hiii";
        echo "hiii";
+        echo "kp";
         ?>
     </body>
 </html>
